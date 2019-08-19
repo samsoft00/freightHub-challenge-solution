@@ -1,0 +1,23 @@
+{
+  "name": "freight",
+  "version": "1.0.0",
+  "description": "Repository with back-end coding challenge from Freighthub",
+  "main": "in\tdex.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freight-hub/freighthub-coding-challenge.git"
+  },
+  "author": "Oyewole Abayomi Samuel <oyewoleabayomi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freight-hub/freighthub-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/freight-hub/freighthub-coding-challenge#readme",
+  "devDependencies": {
+    "@types/node": "^12.7.1",
+    "typescript": "^3.5.3"
+  }
+}
